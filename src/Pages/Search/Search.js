@@ -1,11 +1,9 @@
 import {
     Button,
-    createTheme,
     Tab,
     Tabs,
     Box,
     TextField,
-    ThemeProvider,
 } from "@mui/material";
 import "./Search.css";
 import SearchIcon from '@mui/icons-material/Search';
